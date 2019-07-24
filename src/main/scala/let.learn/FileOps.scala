@@ -2,9 +2,7 @@ package let.learn
 
 import java.io.File
 
-/**
-  * Created by Bitwise on 7/1/2019.
-  */
+
 trait FileOps {
   self: File =>
 

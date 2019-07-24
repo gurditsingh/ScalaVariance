@@ -1,8 +1,6 @@
 package let.learn
 
-/**
-  * Created by Bitwise on 7/1/2019.
-  */
+
 trait Combiner[T]{
   def combine(a:T,b:T):T
 }

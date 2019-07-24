@@ -1,8 +1,5 @@
 package let.learn
 
-/**
-  * Created by Bitwise on 7/1/2019.
-  */
 trait Func[-T,+R]{
   def call(p:T):R
 }
